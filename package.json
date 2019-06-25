@@ -1,0 +1,24 @@
+{
+	"name": "react-native-web-tailwindcss",
+	"version": "1.0.6",
+	"keywords": ["react", "native", "tailwind", "css"],
+	"scripts": {
+		"test": "jest"
+	},
+	"description": "A React Native translation of TailwindCSS",
+	"main": "index.js",
+	"author": "Lucas",
+	"license": "ISC",
+	"peerDependencies": {
+		"react": "^16.8.6"
+	},
+	"dependencies": {
+		"tailwindcss": "^1.0.4"
+	},
+	"devDependencies": {
+		"@babel/core": "^7.4.5",
+		"@babel/preset-env": "^7.4.5",
+		"babel-jest": "^24.8.0",
+		"jest": "^24.8.0"
+	}
+}
