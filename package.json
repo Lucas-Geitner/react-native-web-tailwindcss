@@ -1,6 +1,6 @@
 {
 	"name": "react-native-web-tailwindcss",
-	"version": "1.0.6",
+	"version": "1.0.10",
 	"keywords": ["react", "native", "tailwind", "css"],
 	"scripts": {
 		"test": "jest"

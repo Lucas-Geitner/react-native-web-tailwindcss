@@ -1,4 +1,4 @@
-import alignContent from '../corePlugins/alignContent';
+import { alignContent } from '../corePlugins/alignContent';
 import alignItems from '../corePlugins/alignItems';
 import alignSelf from '../corePlugins/alignSelf';
 import backfaceVisibility from '../corePlugins/backfaceVisibility';
